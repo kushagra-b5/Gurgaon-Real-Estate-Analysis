@@ -26,4 +26,4 @@ The goal of this project is to uncover the key factors that drive property price
 
 ## 📁 Repository Structure
 - `Real_Estate_DATA.csv`: The raw dataset used for analysis.
-- `Real_Estate_Analysis.ipynb`: The Python notebook containing cleaning and EDA logic.
+- `Gurgaon_Real_Estate_Market_Analysis.py`: The Python file containing cleaning and EDA logic.
